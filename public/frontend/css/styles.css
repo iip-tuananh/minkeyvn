@@ -203,7 +203,7 @@ em { font-style: italic; }
 	align-items: center;
 }
 /*-----	. background image -----*/
-.section-parallax-breadcrumb{background-image: url(//theme.hstatic.net/200000408525/1000897806/14/banner_breadcrumb.jpg?v=136);}
+.section-parallax-breadcrumb{background-image: url(../images/banner-breadcumb.jpg);}
 .section-parallax { background-attachment: fixed;background-position: center;background-repeat: no-repeat;background-size: cover;position: relative;overflow: hidden;}
 .section-parallax:before {content:"";position: absolute;top:0;bottom: 0;right:0;left:0;width:100%;height: 100%;	background: #000;opacity: 0.4;}
 .section-parallax.prl-one .s-title h2{margin-bottom:15px;}
@@ -1319,8 +1319,8 @@ button.scroltop span{
 	}
 }
 /*----- Section Parallax -----*/ 
-.section.section-parallax.prl-one.lazyloaded {background-image: url(//theme.hstatic.net/200000408525/1000897806/14/h-prl-one_bg.jpg?v=136);}
-.section.section-parallax.prl-two.lazyloaded {background-image: url(//theme.hstatic.net/200000408525/1000897806/14/h-prl-two_bg.jpg?v=136);}
+.section.section-parallax.prl-one.lazyloaded {background-image: url(../images/bg-contact-home.jpg);}
+.section.section-parallax.prl-two.lazyloaded {background-image: url(../images/bg-contact2-home.jpg);}
 .section.section-parallax.prl-two h2 {margin-bottom:0;text-transform: inherit;font-size: 25px;line-height: 1.5;}
 .section.section-parallax .s-title {position: relative;}
 .some-facts{position:relative;	padding:80px 30px 80px 50px;	border:10px solid #fff;	border-left:0px;}

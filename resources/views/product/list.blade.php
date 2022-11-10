@@ -15,7 +15,7 @@ Danh sách {{$title}}
 @section('content')
 <main class="main-content-theme">
    <div id="collection" class="collection-page">
-      <section class="section-parallax bg-top" style="background-image: url(//theme.hstatic.net/200000408525/1000897806/14/collection_banner.jpg?v=136)">
+      <section class="section-parallax bg-top" style="background-image: url({{url('frontend/images/collection-banner.jpg')}})">
          <div class="overlay-main"></div>
          <div class="banner-title-outer">
             <div class="container">
