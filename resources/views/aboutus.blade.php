@@ -151,7 +151,7 @@ Giới thiệu về {{$setting->company}}
       <section class="section section-stories our-story">
          <div class="container">
             <div class="s-title">
-               <h2>Mẹ tin tưởng lựa chọn Kitin Natural</h2>
+               <h2>Mẹ tin tưởng lựa chọn Minkey</h2>
             </div>
             <div class="s-content">
                <div class="section-content">
