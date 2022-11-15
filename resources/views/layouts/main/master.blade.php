@@ -32,6 +32,7 @@
    <!-- Fav Icon -->
    <link rel="icon" href="{{url(''.$setting->favicon)}}" type="image/x-icon">
    <link rel="preload" as="style" href="{{asset('frontend/css/styles.css')}}">
+   <link href="{{asset('frontend/css/callbuttom.css')}}" rel="stylesheet" type="text/css" />
    <link rel="preconnect" href="//fonts.googleapis.com/css?family=Quicksand:400,500,700&display=swap&subset=vietnamese">
    <link rel="preload" href="//fonts.googleapis.com/css?family=Quicksand:400,500,700&display=swap&subset=vietnamese" as="style">
    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,700&display=swap&subset=vietnamese" rel="stylesheet">
@@ -84,6 +85,39 @@
                   </div>
                </div>
             </div>
+            </div>
+            <div class="hotline-phone-ring-wrap">
+               <div class="hotline-phone-ring">
+                  <div class="hotline-phone-ring-circle"></div>
+                  <div class="hotline-phone-ring-circle-fill"></div>
+                  <div class="hotline-phone-ring-img-circle">
+                  <a href="tel:{{$setting->phone1}}" class="pps-btn-img">
+                  <img src="{{url('frontend/images/icon-call.png')}}" alt="Gọi điện thoại" width="50" loading="lazy">
+                  </a>
+                  </div>
+               </div>
+            </div>
+            <div class="hotline-phone-ring-wrap2">
+               <div class="hotline-phone-ring">
+                  <div class="hotline-phone-ring-circle"></div>
+                  <div class="hotline-phone-ring-circle-fill"></div>
+                  <div class="hotline-phone-ring-img-circle">
+                  <a href="https://zalo.me/{{$setting->phone1}}" class="pps-btn-img" target="_blank">
+                  <img src="{{url('frontend/images/icon-zalo.png')}}" alt="Chat zalo" width="50" loading="lazy">
+                  </a>
+                  </div>
+               </div>
+            </div>
+            <div class="hotline-phone-ring-wrap4">
+               <div class="hotline-phone-ring">
+                  <div class="hotline-phone-ring-circle"></div>
+                  <div class="hotline-phone-ring-circle-fill"></div>
+                  <div class="hotline-phone-ring-img-circle">
+                  <a href="{{$setting->fbPixel}}" class="pps-btn-img" target="_blank">
+                  <img src="{{url('frontend/images/icon-youtube.png')}}" alt="Xem youtube" width="50" loading="lazy">
+                  </a>
+                  </div>
+               </div>
             </div>
       </div>
       <div id="site-overlay" class="site-overlay"></div>
