@@ -186,8 +186,8 @@
                <div class="some-facts">
                   <div class="s-title text-white">
                         <span>Điểm qua</span>
-                        <h2 class="text-white">Những con số ấn tượng về Minkey</h2>
-                        <p>Chính thức ra mắt thị trường vào tháng 10/2021, tính đến nay Minkey đã có hơn 5000 khách hàng trải nghiệm sản phẩm, mở rộng hệ thống kinh doanh với hơn 50 Nhà phân phối và hơn 500 điểm bán trên toàn quốc. </p>
+                        <h2 class="text-white">Những con số ấn tượng về Minky</h2>
+                        <p>Chính thức ra mắt thị trường vào tháng 10/2021, tính đến nay Minky đã có hơn 5000 khách hàng trải nghiệm sản phẩm, mở rộng hệ thống kinh doanh với hơn 50 Nhà phân phối và hơn 500 điểm bán trên toàn quốc. </p>
                   </div>
                </div>
             </div>
@@ -279,7 +279,7 @@
    <section class="section section-parallax prl-two lazyload">
       <div class="container">
             <div class="s-title text-center">
-            <h2 class="text-white">Hãy liên hệ với Kitin Natural để nhận tư vấn miễn phí nhé! </h2>
+            <h2 class="text-white">Hãy liên hệ với Minky để nhận tư vấn miễn phí nhé! </h2>
             </div>
       </div>
    </section>
@@ -293,7 +293,7 @@
                   </div>
                   <div class="desc-policy">
                         <h3>Hỗ trợ </h3>
-                        <p>Minkey luôn sẵn sàng hỗ trợ trực tuyến 24/7. Ba mẹ hãy liên hệ nếu cần giải đáp thắc mắc nha! </p>
+                        <p>Minky luôn sẵn sàng hỗ trợ trực tuyến 24/7. Ba mẹ hãy liên hệ nếu cần giải đáp thắc mắc nha! </p>
                   </div>
                </div>
             </div>

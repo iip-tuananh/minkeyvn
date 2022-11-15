@@ -131,7 +131,7 @@ $discount = $product->price * ($product->discount / 100);
                   @foreach ($productlq as $pro)
                      @if ($product->id != $pro->id)
                      <div class="col-lg-3 col-md-3 col-sm-6 col-xs-6 col-12 col-pj">
-                        @include('layouts.product.item', ['$product'=>$pro])
+                        @include('layouts.product.item', ['product'=>$pro])
                      </div>
                      @endif
                   @endforeach
