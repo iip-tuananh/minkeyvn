@@ -102,12 +102,12 @@
                <div class="col-md-3 col-sm-3 col-xs-12 item--service">
                   <div class="box-service zoom-slow">
                         <div class="img-service fade-box">
-                        <a href="" aria-label="Chất liệu cao cấp, mềm mại" class="banner-hover-effect">
-                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_1.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Chất liệu cao cấp, mềm mại"/>
+                        <a href="" aria-label="Siêu thấm hút" class="banner-hover-effect">
+                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_1.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Siêu thấm hút"/>
                         </a>
                         </div>
                         <div class="desc-service">
-                        <h3><a href="">Chất liệu cao cấp, mềm mại</a></h3>
+                        <h3><a href="">Siêu thấm hút</a></h3>
                         <p></p>
                         </div>
                   </div>
@@ -128,12 +128,12 @@
                <div class="col-md-3 col-sm-3 col-xs-12 item--service">
                   <div class="box-service zoom-slow">
                         <div class="img-service fade-box">
-                        <a href="" aria-label="Siêu thấm hút" class="banner-hover-effect">
-                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_3.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Siêu thấm hút"/>
+                        <a href="" aria-label="Vạch báo đầy thông minh" class="banner-hover-effect">
+                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_3.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Vạch báo đầy thông minh"/>
                         </a>
                         </div>
                         <div class="desc-service">
-                        <h3><a href="">Siêu thấm hút</a></h3>
+                        <h3><a href="">Vạch báo đầy thông minh</a></h3>
                         <p></p>
                         </div>
                   </div>
@@ -141,12 +141,12 @@
                <div class="col-md-3 col-sm-3 col-xs-12 item--service">
                   <div class="box-service zoom-slow">
                         <div class="img-service fade-box">
-                        <a href="" aria-label="Vạch báo đầy thông minh" class="banner-hover-effect">
-                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_4.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Vạch báo đầy thông minh"/>
+                        <a href="" aria-label="Siêu kháng khuẩn" class="banner-hover-effect">
+                        <img class="lazyload" data-src="{{url('frontend/images/h-service_item_4.jpg')}}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="Siêu kháng khuẩn"/>
                         </a>
                         </div>
                         <div class="desc-service">
-                        <h3><a href="">Vạch báo đầy thông minh</a></h3>
+                        <h3><a href="">Siêu kháng khuẩn</a></h3>
                         <p></p>
                         </div>
                   </div>
